@@ -1,0 +1,7 @@
+echo "# Gallery-Spy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HAKORA999/Gallery-Spy.git
+git push -u origin main
